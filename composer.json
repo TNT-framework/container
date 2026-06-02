@@ -1,7 +1,7 @@
 {
 	"name": "tnt-framework/container",
 	"description": "TNT framework DI container, fast and intelligent",
-	"version": "0.1.0",
+	"version": "0.1.1",
 	"license": "MIT",
 	"authors": [
 		{
