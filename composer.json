@@ -1,0 +1,21 @@
+{
+	"name": "tnt-framework/container",
+	"description": "TNT framework DI container, fast and intelligent",
+	"version": "0.1.0",
+	"license": "MIT",
+	"authors": [
+		{
+			"name": "Dusan Tudik",
+			"email": "tudik@nama5.com"
+		}
+	],
+	"require": {
+		"php": ">=7.4",
+		"psr/container": "2.0.2"
+	},
+	"autoload": {
+		"psr-4": {
+			"TNT\\Container\\": "src/"
+		}
+	}
+}
